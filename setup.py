@@ -8,7 +8,7 @@ setup(
     description="This Python module securely validates and extracts user data from a URL-encoded string, using HMAC and SHA-256 for data integrity. It features a User class to structure user information and a Data class for validation and data parsing. Ideal for web applications needing secure user authentication and data management, it's easy to integrate and use.",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
-    url="https://github.com/D34DBOY/verifyTelegramwebapp.git",
+    url="https://github.com/D34DBOY/verifyTelegram.git",
     packages=find_packages(),
     classifiers=[
         "Development Status :: 3 - Alpha",
