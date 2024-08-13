@@ -1,4 +1,3 @@
-
 # Data Validation and User Extraction Module
 
 This Python module is designed to handle the validation and extraction of user data from a URL-encoded string. It uses HMAC and SHA-256 hashing to ensure data integrity and security. The module provides a simple way to validate input data and parse it into a structured `User` object.
