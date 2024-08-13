@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="verifyTelegramwebapp",
+    name="verifyTelegram",
     version="1.0", 
     author="Mohammad Mohammadi Bijaneh", 
     author_email="hiostad6@gmail.com", 
