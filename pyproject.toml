@@ -3,7 +3,7 @@ requires = ["setuptools>=42", "wheel"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "verifyTelegramwebapp"
+name = "verifyTelegram"
 version = "1.0"
 requires-python = ">= 3.8"
 description = "This Python module securely validates and extracts user data from a URL-encoded string, using HMAC and SHA-256 for data integrity. It features a User class to structure user information and a Data class for validation and data parsing. Ideal for web applications needing secure user authentication and data management, it's easy to integrate and use."
@@ -14,4 +14,4 @@ maintainers = [
 license = {text = "MIT License"}
 
 [project.urls]
-Repository = "https://github.com/D34DBOY/verifyTelegramwebapp.git"
+Repository = "https://github.com/D34DBOY/verifyTelegram.git"
